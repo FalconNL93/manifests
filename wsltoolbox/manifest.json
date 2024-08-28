@@ -1,9 +1,9 @@
 {
-  "version": "0.7.31.0",
-  "download": "https://github.com/FalconNL93/WslToolbox/releases/tag/0.7.31.0",
+  "version": "0.7.35.0",
+  "download": "https://github.com/FalconNL93/WslToolbox/releases/tag/0.7.35.0",
   "files": {
     "portable": "wsltoolbox_0.7.31.0_x64.zip",
-    "setup": "wsltoolbox_0.7.31.0_x64_setup.exe",
+    "setup": "wsltoolbox_0.7.35.0_x64_setup.exe",
     "store": "ms-windows-store://pdp/?productid=9NDGGX7M2H0V"
   }
 }
